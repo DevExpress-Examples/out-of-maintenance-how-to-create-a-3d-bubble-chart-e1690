@@ -1,6 +1,6 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bubble3DChart", "Bubble3DChart.csproj", "{751C61AB-7DF7-4801-A82F-4E77191AC0C3}"
+# Visual Studio 16
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bubble3DChart", "Bubble3DChart.Net5.csproj", "{751C61AB-7DF7-4801-A82F-4E77191AC0C3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
